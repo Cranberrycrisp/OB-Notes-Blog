@@ -1,4 +1,4 @@
 ---
 title: Welcome my blog
 ---
-Hello world!
+[[网络安全]]
